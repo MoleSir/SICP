@@ -18,6 +18,8 @@ Learn SICP, this is the progress chart;
 - lec11: Tree;
 - lec12: Mutable Values;
 - lec13: Mutable Functions;
+- lec14: Iterator;
+- lec15: Objects;
 
 ---
 
