@@ -1,5 +1,5 @@
 # SICP
-Learn SICP, this is the progress chart;
+Learn SICP from [JacyCui](https://github.com/JacyCui), this is the progress chart.
 
 
 
@@ -20,6 +20,18 @@ Learn SICP, this is the progress chart;
 - lec13: Mutable Functions;
 - lec14: Iterator;
 - lec15: Objects;
+- lec16: Inheritance;
+- lec17: Representation;
+- lec18: Composition;
+- lec19: Efficiency;
+- lec20: Decomposition;
+- lec21: Scheme;
+- lec22: Exception;
+- lec23: Calculator;
+- lec24: Interpreters;
+- lec25: Declarative Programming;
+- lec26: Tables;
+- lec27: Aggergation;
 
 ---
 
@@ -34,6 +46,11 @@ Learn SICP, this is the progress chart;
 - lab04: Recursion;
 - lab05: Data Abstraction and Tree
 - lab06: Nonlocal Mutability;
+- lab07: Iterator Generators OOP;
+- lab08: Linked-List Tree;
+- lab09: Midterm Review;
+- lab12: SQL;
+- lab13: More SQL;
 
 ---
 
@@ -43,7 +60,10 @@ Learn SICP, this is the progress chart;
 
 - hw01: Variables Functions Control
 - hw02: Recursion;
-- how03: Tree and Data Abstraction;
+- hw03: Tree and Data Abstraction;
+- hw04: Nonlocal Iterators;
+- hw05: OOP_Linked-Lists Tress;
+- hw09: SQL;
 
 ---
 
